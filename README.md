@@ -12,7 +12,7 @@
 <br>
 Random Joke: 
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ## 📊 GitHub Stats:
 
