@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offlaneqq&hide=prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offlaneqq&exclude_repo=Data_Science,Data-Science-Camp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offlaneqq&exclude_repo=Data_Science,Data-Science-Camp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
