@@ -6,10 +6,11 @@
 
 <br>
 
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dmytro-klymchuk/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/38421fd8-f6bb-4353-875e-035e1d6e32f6" target="blank">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/dmytro-klymchuk/" target="blank">
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/38421fd8-f6bb-4353-875e-035e1d6e32f6" target="blank">
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
 </p>
 
 <br>
