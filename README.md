@@ -1,13 +1,10 @@
-### Hi there 👋
+### Welcome to my Github! 👋
 
-<!--
-**offLaneqq/offLaneqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-https://github-readme-stats.vercel.app/api?username=offlaneqq&hide=prs,issues,contribs&show_icons=true&theme=radical
-[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=offlaneqq&exclude_repo=Data_Science,Data-Science-Camp&layout=compact&card_width=320
+## Developer who learns programming himself. Able to constantly learn from other developers and have experience working in a team.
 
--->
+## ⭐ About Me:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=offlaneqq&show_icons=true&theme=radical" />
