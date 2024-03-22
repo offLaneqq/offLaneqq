@@ -1,10 +1,9 @@
 # Welcome to my Github! 👋
 
-<hr>
 
 ## Developer who learns programming himself. Able to constantly learn from other developers and have experience working in a team.
 
-<hr>
+<br>
 
 ## ⭐ About Me:
 
