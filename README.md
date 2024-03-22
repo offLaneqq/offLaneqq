@@ -18,6 +18,6 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=offlaneqq&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=offlaneqq&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=offlaneqq)](https://github.com/anuraghazra/github-readme-stats)-->
