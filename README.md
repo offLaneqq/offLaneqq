@@ -1,7 +1,5 @@
 # Welcome to my Github! 👋
 
-<br>
-
 ## Developer who learns programming himself. Able to constantly learn from other developers and have experience working in a team.
 
 <br>
@@ -12,6 +10,8 @@
 
 
 <br>
+Random Joke: 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📊 GitHub Stats:
 
